@@ -1,0 +1,38 @@
+#footerbackground{
+    background-color: #27272ad8 ;
+    left: 0;
+    bottom: 0;
+    color: #fff;
+    padding: 20px;    
+}
+
+.clear{
+    clear: both;
+}
+
+#fotosobremim{
+    border-radius: 30px;
+}
+
+#caixadeprojetos{
+    margin-top:50px;
+    /* border: 1px solid red; */
+    background-color: #27272a7d ;
+}
+
+#projeto1{
+    /* border: 1px solid red; */
+    border-radius: 30px;
+}
+
+#telefoneitem{
+    padding-right: 100px;
+}
+
+#emailitem{
+    padding-right: 100px;
+}
+
+#nameitem{
+    padding-right: 100px;
+}
